@@ -12,11 +12,14 @@ Equivalent roughness profile data (x,y) will be saved at 'profile.csv'.
 For more information please read the paper doi:....
 
 ## Installation
-To install this tool on Windows machine just download the file 'Shadow2Profile.exe' at a desired location and add this location to the PATH environment variable. Now open cmd at your working directory and type Shadow2Profile and press Enter to run the software.
+To install this tool on Windows machine please go to the `dist` folder and download the file `Shadow2Profile.exe` at a desired location and add this location to the `PATH` environment variable. Now open cmd at your working directory and type Shadow2Profile and press Enter to run the software.
 
-Similarly, in a Linux OS machine just download the executible application file 'Shadow2Profile' to a desired location and add it to your system path.
+Similarly, in a Linux OS machine just download the executible application file `Shadow2Profile` to a desired location and add it to your system path.
 
 If you do not wish to add it to the path, then just copy the file at the working directory.
+
+## Use
+Please refer the Help document in the `examples` folder. Also watch the [tutorial video](https://youtu.be/FbFrvSf6jAE) on YouTube: https://youtu.be/FbFrvSf6jAE 
 
 
 
