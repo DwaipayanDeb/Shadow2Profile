@@ -38,4 +38,4 @@
    ```
    where **19 cm** is the x-length of the area shown in the image.
 4. In a future update these processes will be automated.
-5. Please read the paper with DOI: *[......]* for more details.
+5. Please read the paper with DOI: *[https://doi.org/10.1016/j.measurement.2025.118279]* for more details.
