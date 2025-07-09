@@ -9,7 +9,7 @@ The Ra value will be given in terms of unit length. To get the value in desired 
 All output data is stored in 'output.txt'.
 Equivalent roughness profile data (x,y) will be saved at 'profile.csv'.
 
-For more information please read the paper doi:....
+For more information please read the paper doi:https://doi.org/10.1016/j.measurement.2025.118279
 
 ## Installation
 To install this tool on Windows machine please go to the latest [Release](https://github.com/DwaipayanDeb/Shadow2Profile/releases/tag/v0.1.0) and download the file `Shadow2Profile.exe` at a desired location on your computer and add this to the `PATH` environment variable. Now open cmd at your working directory and type Shadow2Profile and press Enter to run the software.
